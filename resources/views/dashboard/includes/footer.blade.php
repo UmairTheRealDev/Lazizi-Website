@@ -1,0 +1,23 @@
+
+<footer class="footer">
+				<div class="container-fluid">
+					<div class="row text-muted">
+						<div class="col-6 text-start">
+							<p class="mb-0">
+								<a class="text-muted" href="Developed By Meritech Solution" target="_blank"><strong>Developed by Meritech Solution </strong></a>								&copy;
+							</p>
+						</div>
+						<div class="col-6 text-end">
+							<ul class="list-inline">
+								<li class="list-inline-item">
+									<a class="text-muted" href="mailto:umairsarfarz829@gmail.com" target="_blank">Support</a>
+								</li>
+								<li class="list-inline-item">
+									<a class="text-muted" href="mailto:umairsarfarz829@gmail.com" target="_blank">Help Center</a>
+								</li>
+
+							</ul>
+						</div>
+					</div>
+				</div>
+			</footer>
